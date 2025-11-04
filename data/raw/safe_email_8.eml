@@ -1,0 +1,7 @@
+From: support@software.example.com
+To: user@example.com
+Subject: Password reset requested
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+You recently requested a password reset. If you did not request this, contact support; otherwise ignore this message.

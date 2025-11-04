@@ -1,0 +1,7 @@
+From: deals@amazon-prizes.example.net
+To: user@example.com
+Subject: Congratulations! You won a $1000 gift card
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Congratulations! Click http://bit.ly/fake-redeem to claim your prize. Provide your address and card details to receive shipping.

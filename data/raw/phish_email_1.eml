@@ -1,0 +1,12 @@
+From: support@secure-example.com
+To: user@example.com
+Subject: Urgent: Verify your account within 24 hours
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear Customer,</p>
+<p>We detected suspicious activity on your account. <strong>Verify now</strong> to avoid suspension: 
+<a href="http://secure-example.verify-now.example.com/login">Verify Account</a></p>
+<p>Failure to act will result in permanent account closure.</p>
+</body></html>

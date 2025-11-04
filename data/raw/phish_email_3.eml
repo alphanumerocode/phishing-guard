@@ -1,0 +1,11 @@
+From: admin@micros0ft.com
+To: user@example.com
+Subject: Microsoft Office License Renewal Required
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Hello,</p>
+<p>Your Office license will expire. Renew using this link: <a href="http://micros0ft-license.example.com">Renew License</a></p>
+<p>Regards, Microsoft Licensing</p>
+</body></html>

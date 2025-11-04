@@ -1,0 +1,8 @@
+From: billing@paypal-alerts.example.com
+To: user@example.com
+Subject: Your payment has failed — update billing info
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Your recent payment failed. Update your billing details immediately: http://pay-update.example.com
+If you don't update within 12 hours your subscription will be canceled.

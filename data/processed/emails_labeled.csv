@@ -1,0 +1,21 @@
+subject,body,label
+"Urgent: Verify your account","Your account has been locked. Click https://example.com/verify to unlock it.",1
+"Meeting reminder","Reminder: Project meeting tomorrow at 10 AM in the main conference room.",0
+"You won a prize!","Congratulations! Claim your prize now: http://claim-prize.example.com",1
+"Project update","The project deliverables are updated in the shared drive. Please review.",0
+"Bank alert","We detected suspicious activity on your account. Login immediately at http://bank.example.verify.com",1
+"Team lunch today","Who's up for lunch at 1 PM today?",0
+"Password reset required","Your password has expired. Reset here: https://secure-reset.example.com",1
+"Weekly newsletter","Here’s the weekly newsletter with updates from our company.",0
+"Confirm your subscription","Click here to confirm your newsletter subscription: http://spam-link.example.com",1
+"Vacation request approved","Your vacation request for next week has been approved.",0
+"Invoice overdue","Your invoice #12345 is overdue. Pay now: http://fake-invoice.example.com",1
+"Birthday celebration","Join us in the cafeteria to celebrate Sarah's birthday.",0
+"Security notice","Suspicious login detected. Confirm your identity: http://fake-login.example.com",1
+"Meeting agenda","Attached is the agenda for tomorrow’s team meeting.",0
+"Congratulations!","You have been selected for a gift card. Claim here: http://scam.example.com",1
+"Report submission","Please submit your monthly report by Friday.",0
+"Account verification required","Verify your identity immediately: http://phishing-link.example.com",1
+"Weekly update","Here’s the weekly update from the team.",0
+"Lottery winner!","You won a lottery! Click here to claim: http://fraud.example.com",1
+"Office party","Office party this Friday at 6 PM in the lounge. Everyone is invited!",0

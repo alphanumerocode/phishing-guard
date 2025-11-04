@@ -1,0 +1,9 @@
+From: admin@company.example.com
+To: user@example.com
+Subject: HR: New company portal - set your password
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>We migrated to a new portal. Please set your password: <a href="http://company-portal.example-login.com">Set password</a></p>
+</body></html>

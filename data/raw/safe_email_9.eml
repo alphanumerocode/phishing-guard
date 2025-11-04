@@ -1,0 +1,7 @@
+From: feedback@service.example.com
+To: user@example.com
+Subject: Thank you for your feedback
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Thanks for taking our survey. Your feedback will help improve our service.

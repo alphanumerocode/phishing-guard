@@ -1,0 +1,15 @@
+From: receipts@shop.example.com
+To: user@example.com
+Subject: Receipt for your payment
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ALT"
+
+--ALT
+Content-Type: text/plain; charset="utf-8"
+
+Thank you for your payment. Receipt attached.
+--ALT
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>Thank you for your payment. Receipt attached.</p></body></html>
+--ALT--

@@ -1,0 +1,9 @@
+From: invoices@payroll.example.com
+To: user@example.com
+Subject: Invoice #45832 - Payment Overdue
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Please review invoice #45832 attached. If you are not the recipient click <a href="http://invoice-check.example.com">here</a>.</p>
+</body></html>

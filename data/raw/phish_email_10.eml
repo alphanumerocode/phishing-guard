@@ -1,0 +1,7 @@
+From: notifications@linkedin.example.org
+To: user@example.com
+Subject: Someone viewed your profile — see who
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+See who viewed your profile: http://linkedin.example-profile-view.com

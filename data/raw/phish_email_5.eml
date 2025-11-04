@@ -1,0 +1,9 @@
+From: security@bank.example.com
+To: user@example.com
+Subject: Suspicious login attempt — confirm identity
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>We noticed a login from an unknown device. If this was you, ignore. If not, <a href="https://verify-account.example.com">click here</a> to secure your account.</p>
+</body></html>

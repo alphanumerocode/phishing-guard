@@ -1,0 +1,16 @@
+From: hr@company-payroll.example.org
+To: user@example.com
+Subject: Missing tax form attached (open to view)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUND"
+
+--BOUND
+Content-Type: text/plain; charset="utf-8"
+
+Please open the attached form to complete your tax info.
+--BOUND
+Content-Type: application/octet-stream; name="tax_form.exe"
+Content-Disposition: attachment; filename="tax_form.exe"
+
+(binary attachment)
+--BOUND--

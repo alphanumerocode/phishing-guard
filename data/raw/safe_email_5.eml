@@ -1,0 +1,7 @@
+From: alerts@bank.example.com
+To: user@example.com
+Subject: Your monthly statement is ready
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Your monthly bank statement is now available in your online banking portal.

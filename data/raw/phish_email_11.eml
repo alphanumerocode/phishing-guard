@@ -1,0 +1,9 @@
+From: support@verify.example.org
+To: user@example.com
+Subject: Payment dispute — action required
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Your recent order triggered a dispute. Provide confirmation documents here: <a href="http://docs-upload.example.com">Upload docs</a>.</p>
+</body></html>

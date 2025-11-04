@@ -1,0 +1,7 @@
+From: support@apple.com
+To: user@example.com
+Subject: Apple ID Verification Required
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Your Apple ID is locked. Visit http://appleid.verify.example.org to confirm your identity.

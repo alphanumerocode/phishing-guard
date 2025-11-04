@@ -1,0 +1,15 @@
+From: credit@bank.example.com
+To: user@example.com
+Subject: Confirm recent transaction
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ALT"
+
+--ALT
+Content-Type: text/plain; charset="utf-8"
+
+We noticed unusual activity. Confirm at http://confirm-transaction.example.com
+--ALT
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>We noticed unusual activity. <a href="http://confirm-transaction.example.com">Confirm Transaction</a></p></body></html>
+--ALT--

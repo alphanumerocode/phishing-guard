@@ -1,0 +1,7 @@
+From: orders@onlinestore.example.com
+To: user@example.com
+Subject: Order Confirmation #12345
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Thanks for your purchase! Order #12345 has been received and will ship soon.
